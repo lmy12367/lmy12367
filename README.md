@@ -21,22 +21,16 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
   -->
-  **Hello, I am Mingyuan Liu**,:blush:I studied in the School of Software at Hefei University of Technology from September 2018 to June 2022 and was awarded a Bachelor of Engineering degree. During this period, I did an internship in a company in Nanjing from September 2021 to April 2022 to gain relevant experience. My academic efforts and innovative spirit were recognised as evidenced when I received the June 2022 Hefei University of Technology Outstanding Graduation Design Award.
-  I have a keen interest in the field of computer vision, especially in crowd counting techniques. In addition, during my university years, I also taught myself about STM32 microcontrollers to further expand my knowledge.
-
-  
 
  <div style="text-align: center;margin:auto">
     <a href="https://blog.futurehud.cloud//"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/286830749?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_44047806?spm=1000.2115.3001.5343"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=lmy12367&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
+**Hello, I am Mingyuan Liu**,:blush:I studied in the School of Software at Hefei University of Technology from September 2018 to June 2022 and was awarded a Bachelor of Engineering degree. During this period, I did an internship in a company in Nanjing from September 2021 to April 2022 to gain relevant experience. My academic efforts and innovative spirit were recognised as evidenced when I received the June 2022 Hefei University of Technology Outstanding Graduation Design Award.
+I have a keen interest in the field of computer vision, especially in crowd counting techniques. In addition, during my university years, I also taught myself about STM32 microcontrollers to further expand my knowledge.
 
 
-
-  <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=lmy12367&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
   <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmy12367&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
