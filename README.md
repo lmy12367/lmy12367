@@ -30,8 +30,6 @@ Here are some ideas to get you started:
   
 # Specific Skill:
 
-**Foreign language skills: CET-4,IELTS 6.5**
-
 **Programming language: C++, Python，JAVA**
 
 **Operating system: Linux,Windows**
