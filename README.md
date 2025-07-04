@@ -30,11 +30,13 @@ Here are some ideas to get you started:
   
 # Specific Skill:
 
-**Programming language: C++, Python，JAVA**
+**Programming language: C++,Python,JAVA**
+
+**Frameworks/Libraries: Pytorch,Tensorflow**
 
 **Operating system: Linux,Windows**
 
 **Versioning: Git**
 
-**Database: SQL**
+**Database: SQL,MySQL**
 
