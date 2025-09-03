@@ -32,15 +32,13 @@ Here are some ideas to get you started:
 
 **Programming language: C++,Python,JAVA**
 
-**Frameworks/Libraries: Pytorch,Tensorflow**
+**Frameworks/Libraries: Pytorch**
 
-**Operating system: Linux,Windows**
+**Operating system: Linux**
 
 **Versioning: Git**
 
-**Database: SQL,MySQL**
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lmy12367&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
