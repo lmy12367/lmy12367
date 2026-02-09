@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 **Versioning: Git**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmy12367)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
