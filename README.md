@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 **Currently, I am excited to embark on a new journey as I will be pursuing a Master's degree in Computer Science at the University of Nottingham Ningbo China from September 2025 to November 2027.**
 
 **I have a keen interest in the field of computer vision, especially in crowd counting techniques. In addition, during my university years, I also taught myself about STM32 microcontrollers to further expand my knowledge.**
-**homepage:https://lmy12367.github.io/**
+
+**Homepage:https://lmy12367.github.io/**
 
   
 # Specific Skill:
